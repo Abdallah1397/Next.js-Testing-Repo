@@ -6,7 +6,7 @@ const Navbar = () => {
     return (
         <div className={styles.nav}>
             <Link href="/">Home</Link>
-            <Link href="/about">Users</Link>
+            <Link href="/users">Users</Link>
         </div>
     )
 }

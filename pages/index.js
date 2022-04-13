@@ -3,9 +3,9 @@ export default function Home() {
   return (
     <div>
       <Head>
-        <title>Next js tool</title>
+        <title>Testing App</title>
       </Head>
-      Home
+      In this app we will practice next.js and its fundamental.
     </div>
   );
 }
